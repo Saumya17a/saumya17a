@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 - 📚 4th year Computer Science student at University of Victoria
 - 💻 I enjoy automating
-- 👨‍💻 Incoming Junior Software Engineer at [Trulioo](https://www.trulioo.com)
+- 👨‍💻 Junior Software Engineering Intern at [Trulioo](https://www.trulioo.com)
 - 👨‍💻 Ex-Junior Developer at [Aether Automation](https://www.aetherautomation.com/)
 ### Some Tools I Use
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
