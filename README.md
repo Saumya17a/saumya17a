@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
-- 📚 4th year Computer Science student at University of Victoria
+- 📚 Computer Science graduate at University of Victoria
 - 💻 I enjoy automating
 - 👨‍💻 Junior Software Engineering Intern at [Trulioo](https://www.trulioo.com)
 - 👨‍💻 Ex-Junior Developer at [Aether Automation](https://www.aetherautomation.com/)
